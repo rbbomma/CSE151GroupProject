@@ -1,7 +1,7 @@
 # CSE151GroupProject
 
 Our CSE 151A group's members are:
-- Pranav Kambhampati
+- Pranav Kambhampati (pkambhampati@ucsd.edu)
 - Abhijay Deevi
 - Kevin Do
 - Ethan Cota
